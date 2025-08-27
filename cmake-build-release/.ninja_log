@@ -1,0 +1,5 @@
+# ninja log v6
+1	680	1756326673025958584	CMakeFiles/ConvolutionalNNforCIFAR.dir/main.cpp.o	8a6b8e3614bdde1d
+1	1707	1756326673026278523	CMakeFiles/ConvolutionalNNforCIFAR.dir/loader_data.cpp.o	789506a83dd15649
+1	2108	1756326673026172821	CMakeFiles/ConvolutionalNNforCIFAR.dir/convolution.cpp.o	81810d548a4a4e88
+2108	2133	1756326675132984282	ConvolutionalNNforCIFAR	7ba291050e021840
